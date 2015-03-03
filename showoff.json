@@ -1,0 +1,17 @@
+{
+  "name": "Crash course on Ruby on Rails",
+  "description": "Introductory presentation to Ruby on Rails @Aveiro",
+  "author": "Grzegorz Brzezinka",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"1ruby"},
+    {"section":"2gems"},
+    {"section":"3rails"},
+    {"section":"4languages"},
+    {"section":"5demoapp"}
+  ],
+  "edit":"true"
+}
